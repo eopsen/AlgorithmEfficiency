@@ -1,0 +1,15 @@
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/bin/Debug/net6.0/AlgorithmEfficiency
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/bin/Debug/net6.0/AlgorithmEfficiency.deps.json
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/bin/Debug/net6.0/AlgorithmEfficiency.runtimeconfig.json
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/bin/Debug/net6.0/AlgorithmEfficiency.dll
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/bin/Debug/net6.0/AlgorithmEfficiency.pdb
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/obj/Debug/net6.0/AlgorithmEfficiency.csproj.AssemblyReference.cache
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/obj/Debug/net6.0/AlgorithmEfficiency.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/obj/Debug/net6.0/AlgorithmEfficiency.AssemblyInfoInputs.cache
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/obj/Debug/net6.0/AlgorithmEfficiency.AssemblyInfo.cs
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/obj/Debug/net6.0/AlgorithmEfficiency.csproj.CoreCompileInputs.cache
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/obj/Debug/net6.0/AlgorithmEfficiency.dll
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/obj/Debug/net6.0/refint/AlgorithmEfficiency.dll
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/obj/Debug/net6.0/AlgorithmEfficiency.pdb
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/obj/Debug/net6.0/AlgorithmEfficiency.genruntimeconfig.cache
+/Users/eops/RiderProjects/AlgorithmEfficiency/AlgorithmEfficiency/obj/Debug/net6.0/ref/AlgorithmEfficiency.dll
